@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1664225720 source:c:\users\natal\desktop\biopark connect\algoritmos e estruturas de dados\listas\3. projeto cinema\cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	"game.h"
+
+1664826865 source:c:\users\natal\desktop\biopark connect\algoritmos e estruturas de dados\listas\3. projeto cinema\cinema\game.c
+	"game.h"
+
+1664826832 c:\users\natal\desktop\biopark connect\algoritmos e estruturas de dados\listas\3. projeto cinema\cinema\game.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+
